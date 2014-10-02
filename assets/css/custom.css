@@ -38,6 +38,10 @@ header #title div small {
   max-width: 100%;
 }
 
+#post-list b {
+  max-width: 500px;
+}
+
 pre code {
   white-space: pre;
 }
