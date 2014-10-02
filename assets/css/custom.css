@@ -1,0 +1,43 @@
+header .logo {
+  width: 77px;
+  height: 77px;
+  margin-right: 20px;
+  float: left;
+}
+
+header .rad-logo {
+  width: 100px;
+  margin-top: 20px;
+  float: right;
+}
+
+header #title {
+  vertical-align: top;
+  padding-bottom: 0;
+  width: 70%;
+}
+
+header #title div {
+  height: 77px;
+}
+
+header #title div span {
+  margin-top: 19px;
+  display: block;
+}
+
+header #title div small {
+  font-size: 68%;
+}
+
+#wrapper {
+  max-width: 700px;
+}
+
+#post-list h2 {
+  max-width: 100%;
+}
+
+pre code {
+  white-space: pre;
+}
